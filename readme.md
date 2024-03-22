@@ -78,6 +78,6 @@ Software not available through Homebrew or the App Store:
 
 ## Note
 
-- **Deactivate Licences** - For those special cases where apps evaluate the licence using a key: I usually forgot to deactivate the licence of CX CAS STUDENT SOFTWARE. After having already formatted the old mac, it was impossible free the licence, of course. This is your reminder to deactivate any licence to avoid conflicts when trying to use an application on your new mac.
+- **Deactivate Licences** - For those cases where apps evaluate their licence using a key: I usually forget to deactivate the licence of `CX CAS Student Software`. After already having formatted my old mac, it was impossible free the licence, of course. This is your reminder to deactivate any licence to avoid conflicts when trying to use an application on your new mac.
 
 Thanks for reading :)
