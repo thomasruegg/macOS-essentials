@@ -1,4 +1,4 @@
-# Mac Essentials
+# macOS Essentials
 After transitioning from Windows to Linux, and then to macOS, I found that I really enjoy using the macOS platform. Over the years I found some pretty cool apps that add useful functionality or simplify how I use my computer every day. With time I started to note them down, so I could share them with friends.
 
 After having to setup macs often which was part of my job as a system engineer, I crafted a script to get rid of the manual work. Run `setup.sh` to install most apps automatically.
